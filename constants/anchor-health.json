@@ -1,53 +1,53 @@
 {
   "thresholdNights": 3,
-  "updatedAt": "2026-08-26T04:57:02.450Z",
+  "updatedAt": "2026-09-13T09:37:13.814Z",
   "anchors": {
     "moneygram": {
       "consecutiveFailures": 0,
       "degraded": false,
-      "lastCheckedAt": "2026-08-26T04:57:02.450Z",
+      "lastCheckedAt": "2026-09-13T09:37:13.814Z",
       "lastStatus": "ok",
       "lastError": null
     },
     "cowrie": {
-      "consecutiveFailures": 2,
-      "degraded": false,
-      "lastCheckedAt": "2026-08-26T04:57:02.450Z",
+      "consecutiveFailures": 3,
+      "degraded": true,
+      "lastCheckedAt": "2026-09-13T09:37:13.814Z",
       "lastStatus": "fail",
       "lastError": "missing TRANSFER_SERVER_SEP0024 (SEP-24)"
     },
     "anclap": {
       "consecutiveFailures": 0,
       "degraded": false,
-      "lastCheckedAt": "2026-08-26T04:57:02.450Z",
+      "lastCheckedAt": "2026-09-13T09:37:13.814Z",
       "lastStatus": "ok",
       "lastError": null
     },
     "ngnc": {
       "consecutiveFailures": 0,
       "degraded": false,
-      "lastCheckedAt": "2026-08-26T04:57:02.450Z",
+      "lastCheckedAt": "2026-09-13T09:37:13.814Z",
       "lastStatus": "ok",
       "lastError": null
     },
     "mykobo": {
-      "consecutiveFailures": 2,
-      "degraded": false,
-      "lastCheckedAt": "2026-08-26T04:57:02.450Z",
+      "consecutiveFailures": 3,
+      "degraded": true,
+      "lastCheckedAt": "2026-09-13T09:37:13.814Z",
       "lastStatus": "fail",
       "lastError": "TypeError:ENOTFOUND"
     },
     "ntokens": {
       "consecutiveFailures": 0,
       "degraded": false,
-      "lastCheckedAt": "2026-08-26T04:57:02.450Z",
+      "lastCheckedAt": "2026-09-13T09:37:13.814Z",
       "lastStatus": "ok",
       "lastError": null
     },
     "zeam": {
-      "consecutiveFailures": 2,
-      "degraded": false,
-      "lastCheckedAt": "2026-08-26T04:57:02.450Z",
+      "consecutiveFailures": 3,
+      "degraded": true,
+      "lastCheckedAt": "2026-09-13T09:37:13.814Z",
       "lastStatus": "fail",
       "lastError": "HTTP 404"
     }
